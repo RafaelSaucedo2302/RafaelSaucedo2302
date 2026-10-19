@@ -3,6 +3,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/RafaelSaucedo2302/RafaelSaucedo2302/blob/main/cv/CV_Rafael_Saucedo.pdf"><img src="assets/cv-view.svg" width="190" height="46" alt="Ver mi CV en GitHub" /></a>
+  &nbsp;
+  <a href="https://github.com/RafaelSaucedo2302/RafaelSaucedo2302/raw/refs/heads/main/cv/CV_Rafael_Saucedo.pdf"><img src="assets/cv-download.svg" width="220" height="46" alt="Descargar mi CV en PDF" /></a>
+</p>
+<p align="center"><sub>CV completo · Soporte y TI, redes, desarrollo web y móvil, y bases de datos · PDF de 2 páginas</sub></p>
+
+<p align="center">
   <a href="mailto:sabr030223@itsuruapan.edu.mx"><b>CONTACTO PROFESIONAL</b></a>
   &nbsp; / &nbsp;
   <a href="https://github.com/RafaelSaucedo2302/FaroLive-Showcase"><b>CONOCER FAROLIVE</b></a>
@@ -20,23 +27,31 @@ Busco incorporarme a un equipo de **soporte técnico, TI o desarrollo de softwar
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/support.svg" width="48" height="48" alt="" />
       <h3>Soporte y TI</h3>
       <p>Diagnóstico de hardware y software, mantenimiento de equipos y configuración de Windows, aplicaciones y periféricos.</p>
       <p><b>Atención a usuarios</b><br/>Apoyo presencial y remoto, seguimiento de incidencias, respaldos y documentación.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/network.svg" width="48" height="48" alt="" />
       <h3>Redes</h3>
       <p>Configuración básica de routers y switches, fundamentos de LAN/WAN y TCP/IP.</p>
       <p><b>Conectividad</b><br/>Diagnóstico básico de problemas de conexión y configuración de equipos.</p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/development.svg" width="48" height="48" alt="" />
-      <h3>Desarrollo</h3>
-      <p>Sitios y paneles web, automatización para Discord y aplicaciones conectadas con APIs REST.</p>
-      <p><b>Datos e integraciones</b><br/>Bases de datos, autenticación, validación y control de versiones.</p>
+      <h3>Desarrollo web y móvil</h3>
+      <p>Java, Kotlin, Python, PHP, JavaScript y TypeScript. Aplicaciones con React Native, Node.js y Express; interfaces con HTML5, CSS3 y EJS.</p>
+      <p><b>Aplicaciones e integraciones</b><br/>APIs REST, MVC, componentes reutilizables, autenticación, OAuth2 y automatización para Discord.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/database.svg" width="48" height="48" alt="" />
+      <h3>Bases de datos</h3>
+      <p>Integración de MySQL, SQLite, MongoDB y Firebase en proyectos web, móviles y de automatización.</p>
+      <p><b>Integridad y validación</b><br/>Relaciones entre datos, integridad referencial, consultas parametrizadas, validaciones en múltiples capas y prevención de duplicados.</p>
     </td>
   </tr>
 </table>
@@ -90,21 +105,51 @@ Busco incorporarme a un equipo de **soporte técnico, TI o desarrollo de softwar
 | **SnapMath** | Funciones móviles para clases, tareas y anuncios. | `React Native` `TypeScript` `APIs REST` |
 | **Killstore Feedback Bot** | Reseñas, validación de pedidos e integración de servicios externos. | `Python` `Discord.py` `SQLite` |
 
+<details>
+<summary><b>Ver aportaciones técnicas por proyecto</b></summary>
+
+#### Web Gestion TEC
+
+- Colaboré en la arquitectura MVC con PHP y una API REST para autenticación, docentes, requisitos, semestres y bitácoras.
+- Implementé funciones de frontend con HTML5, CSS3 y JavaScript (Fetch API), búsqueda, paginación y matrices interactivas.
+- Trabajé con MySQL, relaciones, integridad referencial, consultas parametrizadas y validaciones en múltiples capas.
+
+#### SnapMath
+
+- Participé en el desarrollo móvil con React Native y TypeScript: navegación, autenticación, clases, tareas y anuncios para estudiantes y profesores.
+- Implementé asistencia académica con IA para Matemáticas, Física y Química, con fórmulas y recursos educativos.
+- Integré APIs REST para sincronizar datos y desarrollé componentes y contextos reutilizables para gestionar autenticación, navegación y estado.
+
+#### Killstore Feedback Bot
+
+- Creé formularios interactivos de Discord para capturar número de pedido, calificación y comentarios con validaciones.
+- Integré PrestaShop para verificar pedidos y pagos, Imgur para imágenes y un sistema de lealtad para gestionar créditos.
+- Utilicé SQLite para almacenar reseñas y prevenir duplicados; implementé mensajes interactivos, logging, manejo de errores, timeouts y validaciones de seguridad.
+
+</details>
+
 <br/>
 
-## Herramientas y formación
+## Tecnologías, herramientas y formación
 
 | Área | Herramientas y conocimientos |
 | :--- | :--- |
 | **Soporte y productividad** | Windows · Word · Excel · PowerPoint |
-| **Web y automatización** | TypeScript · JavaScript · PHP · Python · Node.js · Express |
-| **Datos** | MySQL · SQLite · Consultas parametrizadas · Validación de datos |
-| **Trabajo con código** | Git · GitHub · Apache · APIs REST · MVC |
+| **Lenguajes** | Java · Kotlin · Python · PHP · JavaScript · TypeScript |
+| **Web y móvil** | React Native · Node.js · Express · EJS · HTML5 · CSS3 |
+| **Bases de datos** | MySQL · SQLite · MongoDB · Firebase |
+| **Prácticas de desarrollo** | APIs REST · MVC · Componentes reutilizables · OAuth2 · Validación de datos |
+| **Prácticas con datos** | Integridad referencial · Consultas parametrizadas · Prevención de duplicados |
+| **Herramientas de trabajo** | Git · GitHub · Android Studio · Apache · Discord |
 
 **Ingeniería en Sistemas Computacionales** · Instituto Tecnológico Superior de Uruapan · 2021 - 2026<br/>
 Egresado, con residencias profesionales concluidas y proceso de titulación en curso.
 
+**Formación previa:** CECyTEM · Área Físico Matemática.
+
 **Español:** nativo &nbsp; / &nbsp; **Inglés:** intermedio técnico.
+
+**Competencias:** resolución de problemas, comunicación con usuarios, trabajo en equipo, organización y seguimiento, adaptación tecnológica y tolerancia al estrés.
 
 ---
 
@@ -112,4 +157,8 @@ Egresado, con residencias profesionales concluidas y proceso de titulación en c
   <b>Disponible para oportunidades de soporte técnico, TI y desarrollo.</b><br/>
   Uruapan, Michoacán · Disponibilidad para reubicación<br/><br/>
   <a href="mailto:sabr030223@itsuruapan.edu.mx"><b>Hablemos de tu vacante →</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/RafaelSaucedo2302/RafaelSaucedo2302/blob/main/cv/CV_Rafael_Saucedo.pdf"><b>Ver mi CV</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/RafaelSaucedo2302/RafaelSaucedo2302/raw/refs/heads/main/cv/CV_Rafael_Saucedo.pdf"><b>Descargar PDF ↓</b></a>
 </p>
