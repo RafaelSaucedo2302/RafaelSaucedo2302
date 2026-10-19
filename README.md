@@ -79,7 +79,7 @@ Busco incorporarme a un equipo de **soporte técnico, TI o desarrollo de softwar
     <td width="50%" valign="top">
       <img src="assets/electronica-project.svg" width="100%" alt="Electrónica Digital MX: sitio web y panel de administración desarrollado durante prácticas profesionales." />
       <h3>02 · Electrónica Digital MX</h3>
-      <p><b>Prácticas profesionales · Desarrollo web</b></p>
+      <p><b>Desarrollador web · Prácticas profesionales</b><br/>Febrero de 2026 - Agosto de 2026</p>
       <p>Sitio web para una empresa de electrónica, con catálogo de productos y herramientas para administrar su información y solicitudes.</p>
       <ul>
         <li>Búsqueda, filtros y fichas de producto.</li>
