@@ -7,7 +7,7 @@
   &nbsp;
   <a href="https://github.com/RafaelSaucedo2302/RafaelSaucedo2302/raw/refs/heads/main/cv/CV_Rafael_Saucedo.pdf"><img src="assets/cv-download.svg" width="220" height="46" alt="Descargar mi CV en PDF" /></a>
 </p>
-<p align="center"><sub>CV completo · Soporte y TI, redes, desarrollo web y móvil, y bases de datos · PDF de 2 páginas</sub></p>
+<p align="center"><sub>CV profesional · Soporte y TI, redes, desarrollo web y móvil, y bases de datos · PDF de 1 página</sub></p>
 
 <p align="center">
   <a href="mailto:sabr030223@itsuruapan.edu.mx"><b>CONTACTO PROFESIONAL</b></a>
